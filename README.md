@@ -22,4 +22,5 @@ Provided insights and actionable next steps for the online clothing store.
 
 Tool Used: Microsoft Excel
 
+Dashboard 
 ![Dashboard](https://github.com/Animeshgehlot/Online-Clothes-Story-Data-Analytics-/assets/168953673/d620f117-b7e2-4fb4-bc45-5c074ce6555f)
