@@ -10,17 +10,17 @@ Questions
 8. Identified the highest selling category.
 
 Insights:
-Women made up the majority of purchases (65%).
-Maharashtra, Karnataka, and Uttar Pradesh were the top contributing states (35%).
-The middle age group (30 to 49 years) contributed the most (50%).
-Amazon, Flipkart, and Myntra were the top sales channels (80%).
+* Women made up the majority of purchases (65%).
+* Maharashtra, Karnataka, and Uttar Pradesh were the top contributing states (35%).
+* The middle age group (30 to 49 years) contributed the most (50%).
+* Amazon, Flipkart, and Myntra were the top sales channels (80%).
 
 What I Learned:
-Data cleaning, processing, analysis, and visualization.
-Created a comprehensive dashboard.
-Provided insights and actionable next steps for the online clothing store.
+* Data cleaning, processing, analysis, and visualization.
+* Created a comprehensive dashboard.
+* Provided insights and actionable next steps for the online clothing store.
 
 Tool Used: Microsoft Excel
 
-Dashboard 
+# Dashboard 
 ![Dashboard](https://github.com/Animeshgehlot/Online-Clothes-Story-Data-Analytics-/assets/168953673/d620f117-b7e2-4fb4-bc45-5c074ce6555f)
