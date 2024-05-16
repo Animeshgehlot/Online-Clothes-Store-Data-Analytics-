@@ -1,4 +1,4 @@
-# Online-Clothes-Story-Data-Analytics-
+# Online-Clothes-Store-Data-Analytics-
 Questions
 1. Compared sales and orders using a single chart.
 2. Identified the month with the highest sales and orders.
